@@ -1,0 +1,86 @@
+.form{
+    border: 1px solid #120b0b;
+}
+h1{
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    margin: 10px;
+}
+.word{
+    font-weight: bold;
+
+}
+.inputbox{
+    display: flex;
+
+
+}
+.inputbox input{
+    background-color: #afaaaa4f;
+    border: 1px solid #ebeaea;
+    margin: 10px 10px 0px 0;
+    display: flex;
+    height: 25px;
+    width: 1000px;
+    font-size: 16px;
+}
+
+label{
+    display: flex;
+    justify-content: right;
+    margin: 10px 10px 0px 0 ;
+    padding-left: 2px;
+    font-weight: bold;
+    width: 150px;
+}
+.inputradio{
+    font-weight: bold;
+    margin-left: 157px;
+    margin-top: 10px;
+    width: 1000px;
+}
+
+.reset{
+    display: flex;
+    background-color: hsl(0, 70%, 65%);
+    border: 2px;
+    border-radius: 6px;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    width: 350px;
+    margin : 10px 10px;
+    height: 40px;
+    
+}
+.submit{
+    display: flex;
+    background-color: #71ca74;
+    border: 2px;
+    border-radius: 6px;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    width: 350px;
+    margin : 10px 10px;
+    height: 40px;
+    
+}
+.subres{
+    display: flex;
+    justify-content: center;
+    font-weight: px;
+    font-size: 32px;
+    margin : 10px;
+    padding: 10px;
+
+}
